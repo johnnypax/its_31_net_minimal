@@ -2,6 +2,18 @@ using ITS_31_LEZ02_TASK_1.Classi;
 
 var builder = WebApplication.CreateBuilder(args);
 
+// Configuro la policy CORS
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowAll", policy =>
+    {
+        policy
+            .AllowAnyOrigin()   // permette qualsiasi origine
+            .AllowAnyMethod()   // permette GET, POST, PUT, DELETE, ecc.
+            .AllowAnyHeader();  // permette tutti gli headers
+    });
+});
+
 var app = builder.Build();
 
 app.UseHttpsRedirection();
@@ -66,19 +78,21 @@ var menu = new List<Pizza>
 
 app.MapGet("/api/menu", () =>
 {
-    var pizzaDTO = menu.Select(p => new
-    {
-        Nom = p.Nome,
-        Veg = p.IsVegana,
-        Pre = p.Prezzo,
-        Ing = p.Ingredientes.Select(i => new
-        {
-            Nom = i.Nome,
-            All = i.IsAllergene
-        })
-    });
+    //var pizzaDTO = menu.Select(p => new
+    //{
+    //    Nom = p.Nome,
+    //    Veg = p.IsVegana,
+    //    Pre = p.Prezzo,
+    //    Ing = p.Ingredientes.Select(i => new
+    //    {
+    //        Nom = i.Nome,
+    //        All = i.IsAllergene
+    //    })
+    //});
 
-    return Results.Ok(pizzaDTO);
+    //return Results.Ok(pizzaDTO);
+
+    return Results.Ok(menu);
 });
 
 app.MapPost("/api/menu", (Pizza piz) =>
@@ -88,5 +102,9 @@ app.MapPost("/api/menu", (Pizza piz) =>
 
     return Results.Created("/api/menu/" + piz.Nome, null);
 });
+
+
+app.UseCors("AllowAll");
+
 
 app.Run();
