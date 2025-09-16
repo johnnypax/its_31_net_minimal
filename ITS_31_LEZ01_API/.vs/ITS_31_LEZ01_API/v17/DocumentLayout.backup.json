@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACADEMY\\source\\repos\\ITS_31_LEZ01_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D58B162-1E22-44A1-AFE8-C96396C17194}|ITS_31_LEZ01_API\\ITS_31_LEZ01_API.csproj|c:\\users\\academy\\source\\repos\\its_31_lez01_api\\its_31_lez01_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D58B162-1E22-44A1-AFE8-C96396C17194}|ITS_31_LEZ01_API\\ITS_31_LEZ01_API.csproj|solutionrelative:its_31_lez01_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D58B162-1E22-44A1-AFE8-C96396C17194}|ITS_31_LEZ01_API\\ITS_31_LEZ01_API.csproj|c:\\users\\academy\\source\\repos\\its_31_lez01_api\\its_31_lez01_api\\classi\\automobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D58B162-1E22-44A1-AFE8-C96396C17194}|ITS_31_LEZ01_API\\ITS_31_LEZ01_API.csproj|solutionrelative:its_31_lez01_api\\classi\\automobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D58B162-1E22-44A1-AFE8-C96396C17194}|ITS_31_LEZ01_API\\ITS_31_LEZ01_API.csproj|c:\\users\\academy\\source\\repos\\its_31_lez01_api\\its_31_lez01_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7D58B162-1E22-44A1-AFE8-C96396C17194}|ITS_31_LEZ01_API\\ITS_31_LEZ01_API.csproj|solutionrelative:its_31_lez01_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 633,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\ITS_31_LEZ01_API\\ITS_31_LEZ01_API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ITS_31_LEZ01_API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\ITS_31_LEZ01_API\\ITS_31_LEZ01_API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ITS_31_LEZ01_API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-16T08:22:42.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Automobile.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\ITS_31_LEZ01_API\\ITS_31_LEZ01_API\\Classi\\Automobile.cs",
+              "RelativeDocumentMoniker": "ITS_31_LEZ01_API\\Classi\\Automobile.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\ITS_31_LEZ01_API\\ITS_31_LEZ01_API\\Classi\\Automobile.cs",
+              "RelativeToolTip": "ITS_31_LEZ01_API\\Classi\\Automobile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T07:52:29.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACADEMY\\source\\repos\\ITS_31_LEZ01_API\\ITS_31_LEZ01_API\\Program.cs",
+              "RelativeDocumentMoniker": "ITS_31_LEZ01_API\\Program.cs",
+              "ToolTip": "C:\\Users\\ACADEMY\\source\\repos\\ITS_31_LEZ01_API\\ITS_31_LEZ01_API\\Program.cs",
+              "RelativeToolTip": "ITS_31_LEZ01_API\\Program.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAAEEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T07:34:17.887Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
