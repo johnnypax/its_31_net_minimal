@@ -1,0 +1,6 @@
+@ITS_31_LEZ02_TASK_1_HostAddress = http://localhost:5183
+
+GET {{ITS_31_LEZ02_TASK_1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
