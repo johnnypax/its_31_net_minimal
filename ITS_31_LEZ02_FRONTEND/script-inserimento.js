@@ -13,7 +13,7 @@ function salva(){
     fetch("https://localhost:7293/api/menu", {
         method: "POST",
         headers: {
-            "Content-Type": "application/json"
+            "Content-Type": "application/json",
         },
         body: JSON.stringify(corpo)
     })

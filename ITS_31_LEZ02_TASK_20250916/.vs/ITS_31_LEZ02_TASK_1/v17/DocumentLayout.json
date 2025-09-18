@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 633,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -33,14 +33,6 @@
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
@@ -48,7 +40,7 @@
               "RelativeDocumentMoniker": "ITS_31_LEZ02_TASK_1\\Program.cs",
               "ToolTip": "C:\\Users\\ACADEMY\\Desktop\\its_31_rest_api\\ITS_31_LEZ02_TASK_20250916\\ITS_31_LEZ02_TASK_1\\Program.cs",
               "RelativeToolTip": "ITS_31_LEZ02_TASK_1\\Program.cs",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAAAGkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-16T10:45:59.018Z",
               "EditorCaption": ""

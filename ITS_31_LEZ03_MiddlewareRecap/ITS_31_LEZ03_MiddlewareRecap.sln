@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lez01_MiddlewareRecap", "ITS_31_LEZ03_MiddlewareRecap\lez01_MiddlewareRecap.csproj", "{6720AA5C-6742-43B8-861A-21AF04456FFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lez02_MiddlewareAutenticazione", "MiddlewareAutenticazione\lez02_MiddlewareAutenticazione.csproj", "{898A0D68-08B4-4163-9AC1-96151CD01703}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6720AA5C-6742-43B8-861A-21AF04456FFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6720AA5C-6742-43B8-861A-21AF04456FFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6720AA5C-6742-43B8-861A-21AF04456FFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6720AA5C-6742-43B8-861A-21AF04456FFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{898A0D68-08B4-4163-9AC1-96151CD01703}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{898A0D68-08B4-4163-9AC1-96151CD01703}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{898A0D68-08B4-4163-9AC1-96151CD01703}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{898A0D68-08B4-4163-9AC1-96151CD01703}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C49E4D9-3B1D-4E14-B7FE-26DEAC6B2E9A}
+	EndGlobalSection
+EndGlobal
